@@ -65,6 +65,18 @@ Supercharge your workflow with GitHub Copilot Agent Mode tools, which allows the
 
 ![Agent Mode Tools](img/agent-mode-vid.gif)
 
+### Server Dashboard
+
+Get insights into your PostgreSQL server performance with the Server Dashboard.
+
+![Server Dashboard](img/metrics-dashboard.gif)
+
+### Metrics Copilot
+
+Get intelligent insights and help with performance and troubleshooting your PostgreSQL database with Copilot.
+
+![Metrics Copilot](img/metrics-copilot.gif)
+
 ### Create a docker PostgreSQL
 
 Create a PostgreSQL database in a Docker container easily with a few clicks.
